@@ -64,6 +64,8 @@
     <Compile Include="Xb\Base.cs" />
     <Compile Include="Xb\File\Gps.cs" />
     <Compile Include="Xb\File\Util.cs" />
+    <Compile Include="Xb\Net\Ftp.cs" />
+    <Compile Include="Xb\Net\HttpListener.cs" />
     <Compile Include="Xb\Net\Smb.cs" />
     <Compile Include="Xb\Type\Marshaler.cs" />
   </ItemGroup>
